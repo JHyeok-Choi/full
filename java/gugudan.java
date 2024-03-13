@@ -2,7 +2,7 @@ import java.util.*;
 
 public class gugudan {
     public static void main(String[] args) {
-        Sanner s = new Scanner(System.in);
+        Scanner s = new Scanner(System.in);
         do {
             System.out.print("Insert number(0:Exit) : ");
             int i = s.nextInt();
