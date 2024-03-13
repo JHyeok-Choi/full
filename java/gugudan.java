@@ -14,7 +14,7 @@ public class gugudan {
                     System.out.println(i + " * " + j + " = " + i*j);
                 }
             } else {
-                System.out.println("Insert Number 2~9. Retype again!!");
+                System.out.println("Insert Number 2~9. Retype again~!!");
             }
         } while(true);
     }
