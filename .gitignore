@@ -1,14 +1,14 @@
-# .env
+## .env
 .env
 
-# .vscode
+## .vscode
 .vscode
 
-# c
+## c
 c/*
-**/*.o
+c/*.o
 c/**/*
-#!c/**/
+!c/**/
 !c/**/*.c
 !c/**/lib/
 !c/**/lib/*.h
