@@ -25,7 +25,7 @@ do
 			echo "-k (initial scripts directory) option, parameter value : $param"
 			shift ;;
 		-m) echo "-m (make home directory) option" ;;	
-		--) shift
+		--) shift ;;
 	    	    break ;;
 		*) echo "$1 is not an option" ;;
 	esac
